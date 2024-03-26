@@ -1,0 +1,20 @@
+{
+  "name": "cpf_vtex",
+  "author": {
+    "name": "Luiz Araujo",
+    "email": "suporte@viaconsulting.com.br",
+    "url": "https://viaconsulting.com.br"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "nav_bar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
